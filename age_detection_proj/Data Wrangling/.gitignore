@@ -7,3 +7,5 @@ cv-valid-train.csv
 cv-other-test/
 cv-valid-test/
 cv-valid-train/
+data_test.pickle
+labels.txt
