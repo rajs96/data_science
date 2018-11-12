@@ -1,0 +1,2 @@
+This is a repository of me learning Tensorflow and implementing some sample Neural networks. A lot of the code came from this course:
+https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/v4/content
