@@ -2,3 +2,12 @@ audio_other_testing_data_cleaned.csv
 audio_testing_data_cleaned.csv
 audio_training_data_cleaned.csv
 labels.txt
+cnn.py
+save_np_arr_and_labels.py
+save_np_arr_and_labels_test.py
+testing_feature_arr.npy
+testing_labels.pickle
+training_data_not_reshaped.pickle
+training_data_not_reshaped_small.bz2
+training_feature_arr.npy
+training_labels.pickle
