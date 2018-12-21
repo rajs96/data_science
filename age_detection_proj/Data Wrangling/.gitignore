@@ -9,3 +9,6 @@ cv-valid-test/
 cv-valid-train/
 data_test.pickle
 labels.txt
+pyaudio_featurize.py
+training_data_and_labels.pickle
+
